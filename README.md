@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sardor
 - 👀 I’m interested in Web Developing
 - I'm studying at ITStep Academy
-- 🌱 I’m currently learning C#, PHP/Laravel
+- 🌱 I’m currently learning Vue.js ecosystem
 - 📫 How to reach me by Telegram: @SardorAkh
 
 <!---
